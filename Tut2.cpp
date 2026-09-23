@@ -1,5 +1,4 @@
-//Find out the sum of even numbers and sum of odd numbers between 1 to 50 using //loops. 
-//Program 2: Sum of even numbers and sum of odd numbers 
+//Find out the sum of even numbers and sum of odd numbers 
 #include <iostream> 
 using namespace std; 
 class Numbersum{ 
