@@ -1,5 +1,4 @@
 //Program 1: Pascal Triangle 
-//Write a C++ program to print pascal triangles. 
 
 
 #include <iostream> 
